@@ -41,7 +41,7 @@ jobs:
 
           script: |
 
-            cd /var/www/html/laravel
+            cd /var/www/html/gitAction_Laravel/gitAction_Laravel
 
             git checkout -f 
 
