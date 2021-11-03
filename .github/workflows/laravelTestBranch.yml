@@ -41,8 +41,8 @@ jobs:
 
           script: |
 
-            cd /var/www/html/laravel2
+            cd /var/www/html/gitAction_Laravel/gitAction_Laravel2
 
             git checkout -f 
             
-            git pull https://github.com/PritomD/laravel test --allow-unrelated-histories
+            git pull https://github.com/Shehab17/gitAction_Laravel test --allow-unrelated-histories
